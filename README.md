@@ -1,4 +1,3 @@
 # Hi there &#128075;
 
-### im from Brazil and i love to program and learn new things
-### I am a begginer on front-end and a scripter lua for MTA:SA
+### My name is Gustavo Freire im a brazilian, i started to learn front-end in 2021 on the [Alura](https://www.alura.com.br) platform, i make some scripts too for [mta:sa](https://multitheftauto.com) as a hobbie.
