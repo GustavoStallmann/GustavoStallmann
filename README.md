@@ -1,6 +1,6 @@
 # 🧾・Bio
 
-<details>
+<details open>
 <summary><b>PT-br</b></summary>
     Meu nome é Gustavo Freire, tenho 17 anos e moro no Brasil. Atualmente estou aprendendo e melhorando meus conhecimentos em desenvolvimento front-end, focando em um dia trabalhar nessa área.
 </details>
