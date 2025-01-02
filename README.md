@@ -2,7 +2,7 @@
   👋 Olá, seja bem-vindo(a) ao meu Github!
 </h1>
 
-Me chamo Gustavo Freire, atualmente tenho 18 anos e estudo Ciências da Computação na Universidade Estadual de Londrina - UEL.
+Me chamo Gustavo Freire, tenho 19 anos e curso Ciências da Computação na Universidade Estadual de Londrina (UEL).
 
 ## 🛠️ Ferramentas
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
