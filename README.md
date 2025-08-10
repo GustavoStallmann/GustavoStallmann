@@ -12,4 +12,4 @@ Me chamo Gustavo Stallmann, tenho 19 anos. Atualmente estou no 4º período do c
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoStallmann&layout=compact&theme=transparent)
 <br/>
 
-## 👇 Veja meus principais repositórios
+### 👇 Veja meus principais repositórios
